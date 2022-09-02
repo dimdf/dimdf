@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dimdf
 - 👀 I’m interested in Data analysis
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning karpov.courses
+- 💞️ I’m looking to collaborate on Data analysis
 - 📫 How to reach me vaivern_333@mail.ru
